@@ -1,0 +1,5 @@
+C:\Estudos\Estudo_CSharp\Estrutura Condicional\obj\Debug\net6.0\Estrutura Condicional.csproj.AssemblyReference.cache
+C:\Estudos\Estudo_CSharp\Estrutura Condicional\obj\Debug\net6.0\Estrutura Condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Estudo_CSharp\Estrutura Condicional\obj\Debug\net6.0\Estrutura Condicional.AssemblyInfoInputs.cache
+C:\Estudos\Estudo_CSharp\Estrutura Condicional\obj\Debug\net6.0\Estrutura Condicional.AssemblyInfo.cs
+C:\Estudos\Estudo_CSharp\Estrutura Condicional\obj\Debug\net6.0\Estrutura Condicional.csproj.CoreCompileInputs.cache
