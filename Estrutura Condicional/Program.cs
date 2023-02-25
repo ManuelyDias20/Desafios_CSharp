@@ -11,7 +11,7 @@ Console.WriteLine(" 3: Produtos entre os numeros digitados");
 Console.WriteLine(" 4: Divisão do primeiro pelo segundo");
 Console.WriteLine(" ---------------------------------------");
 operacao = int.Parse(Console.ReadLine());
-
+    
 switch (operacao)
 {
     case 1:
