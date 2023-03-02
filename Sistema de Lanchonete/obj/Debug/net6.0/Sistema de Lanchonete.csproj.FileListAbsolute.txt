@@ -1,0 +1,15 @@
+C:\Users\manue\source\repos\ManuelyDias20\Desafios_CSharp\Sistema de Lanchonete\bin\Debug\net6.0\Sistema de Lanchonete.exe
+C:\Users\manue\source\repos\ManuelyDias20\Desafios_CSharp\Sistema de Lanchonete\bin\Debug\net6.0\Sistema de Lanchonete.deps.json
+C:\Users\manue\source\repos\ManuelyDias20\Desafios_CSharp\Sistema de Lanchonete\bin\Debug\net6.0\Sistema de Lanchonete.runtimeconfig.json
+C:\Users\manue\source\repos\ManuelyDias20\Desafios_CSharp\Sistema de Lanchonete\bin\Debug\net6.0\Sistema de Lanchonete.dll
+C:\Users\manue\source\repos\ManuelyDias20\Desafios_CSharp\Sistema de Lanchonete\bin\Debug\net6.0\Sistema de Lanchonete.pdb
+C:\Users\manue\source\repos\ManuelyDias20\Desafios_CSharp\Sistema de Lanchonete\obj\Debug\net6.0\Sistema de Lanchonete.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\ManuelyDias20\Desafios_CSharp\Sistema de Lanchonete\obj\Debug\net6.0\Sistema de Lanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\source\repos\ManuelyDias20\Desafios_CSharp\Sistema de Lanchonete\obj\Debug\net6.0\Sistema de Lanchonete.AssemblyInfoInputs.cache
+C:\Users\manue\source\repos\ManuelyDias20\Desafios_CSharp\Sistema de Lanchonete\obj\Debug\net6.0\Sistema de Lanchonete.AssemblyInfo.cs
+C:\Users\manue\source\repos\ManuelyDias20\Desafios_CSharp\Sistema de Lanchonete\obj\Debug\net6.0\Sistema de Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\ManuelyDias20\Desafios_CSharp\Sistema de Lanchonete\obj\Debug\net6.0\Sistema de Lanchonete.dll
+C:\Users\manue\source\repos\ManuelyDias20\Desafios_CSharp\Sistema de Lanchonete\obj\Debug\net6.0\refint\Sistema de Lanchonete.dll
+C:\Users\manue\source\repos\ManuelyDias20\Desafios_CSharp\Sistema de Lanchonete\obj\Debug\net6.0\Sistema de Lanchonete.pdb
+C:\Users\manue\source\repos\ManuelyDias20\Desafios_CSharp\Sistema de Lanchonete\obj\Debug\net6.0\Sistema de Lanchonete.genruntimeconfig.cache
+C:\Users\manue\source\repos\ManuelyDias20\Desafios_CSharp\Sistema de Lanchonete\obj\Debug\net6.0\ref\Sistema de Lanchonete.dll
